@@ -1,0 +1,18 @@
+1.https://www.jb51.net			//包含了大量的软件资料书等
+2.https://md5jiami.bmcx.com/		//MD5在线加密-MD5加密工具，使用MD5加密算法实现加密
+3.https://www.macno1.com/category-2_35.html	//电脑软件，手机软件
+4.https://www.polebrief.com/skill		//简历模板
+5.https://blog.csdn.net/weixin_43155866/article/details/88837424 或者 https://www.cnblogs.com/shiyingzhi/p/7896259.html		//C++连接并使用MySQL数据库
+6.https://docs.microsoft.com/zh-cn/cpp/standard-library/algorithm-functions?view=msvc-160#sort		//visual studio 2019 函数库详解
+7.https://www.cnblogs.com/chulia20002001/p/6956678.html		//github上的几个C++开源项目
+8.http://www.qcenglish.com/ebook/2949.html			//七彩英语->英文电子书->工具书->词典
+9.https://man.linuxde.net/			//Linux命令大全  
+10.https://www.zhihu.com/question/336266287/answer/2144611720	//vscode如何在最新版本中配置c/c++语言环境中的launch.json和tasks.json
+11.https://www.linuxidc.com/Linux/2019-09/160471.htm	//如何使用visual studio 2019进行Linux远程开发
+12.https://github.com/imarvinle/awesome-cs-books	//经典编程书籍大全
+13.https://www.icourse163.org/?from=study	//中国大学MOOC（wechat login）
+14.https://oewbook.com/			//免费文学类书籍
+15.https://zh.gr1lib.org/			//免费的书籍
+16.https://www.sciping.com/			//科塔学术
+17.https://www.xue8nav.com/			//学吧导航
+18.https://www.zhixi.com/space		//知犀（思维导图）
